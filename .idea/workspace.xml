@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e18015de-5792-493e-afb6-5b953e3fa3d1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SpringBoot_Demo.iws" />
@@ -774,7 +773,7 @@
       <workItem from="1476323603280" duration="7447000" />
       <workItem from="1477900340546" duration="273000" />
       <workItem from="1478158407320" duration="607000" />
-      <workItem from="1478226925012" duration="5711000" />
+      <workItem from="1478226925012" duration="5768000" />
     </task>
     <task id="LOCAL-00001" summary="SpringBoot+Mybatis+MySQL整合Demo项目">
       <created>1478231008102</created>
@@ -783,7 +782,14 @@
       <option name="project" value="LOCAL" />
       <updated>1478231008102</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add .gitignore">
+      <created>1478233573568</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1478233573568</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -819,11 +825,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14038000" />
+    <option name="totallyTimeSpent" value="14095000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -869,7 +875,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="SpringBoot+Mybatis+MySQL整合Demo项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="SpringBoot+Mybatis+MySQL整合Demo项目" />
+    <MESSAGE value="add .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add .gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
