@@ -16,4 +16,9 @@
     where id = #{id,jdbcType=INTEGER}
   </select>
 
+  <insert id="insert" parameterType="com.llf.springboot.model.User">
+    insert into user (name)
+    values (#{name,jdbcType=VARCHAR})
+  </insert>
+
 </mapper>
