@@ -5,7 +5,7 @@ SpringBoot+Mybatis+MySQL
 
 前段时间去了解了SpringBoot，感觉这东西太方便，不去要部署到Tomcat，也不需要配置文件，直接写一句代码就跑起来一个web项目，直接打包成jar运行就ok了。大型项目会不会使用SpringBoot我不太清除，但对于我这种入门程序员想做一些小项目简直太方便。
 
-入门SpringBoot非常简单，Spring官网有教程，如果学过Spring和SpringMVC，那么简单5反正即可入门。当然，如果没有学习过Spring和SpringMVC也不推荐去学习SpringBoot，建议先将前边两个至少入了门，毕竟这俩才是核心。
+入门SpringBoot非常简单，Spring官网有教程，如果学过Spring和SpringMVC，那么简单5分钟即可入门。当然，如果没有学习过Spring和SpringMVC也不推荐去学习SpringBoot，建议先将前边两个至少入了门，毕竟这俩才是核心。
 
 此项目是Maven项目，IDE为Intellij IDEA
 
